@@ -1,0 +1,54 @@
+
+h1{
+   color:green;
+   font-family: "Roboto" ;
+   font-weight: bold;
+}
+
+.header-text{
+   color: yellow;
+   font-family: "Larsseit";
+   font-weight: 400;
+}
+
+#origin{
+   color:aquamarine;
+   font-family: "Lato" ;
+   font-weight: 700;
+}
+
+h2{
+   color:darkorange;
+   font-family:"Larsseit" ;
+   font-weight: 700;
+}
+
+p{
+   color:blue;
+   font-family: "Larsseit";
+   font-weight: 500;
+}
+
+.health{
+   color:lightsteelblue;
+   font-family: "Lato" ;
+   font-weight: 900;
+}
+
+p.food{
+   color:tomato;
+   font-family: "Lato" ;
+   font-weight: 400;
+   }
+
+.header-health{
+   color:lime;
+   font-family: "Lato";
+   font-weight: 900;
+}
+
+.header-kids{
+color:navy;
+font-family: "Roboto";
+font-weight: 900;
+}
